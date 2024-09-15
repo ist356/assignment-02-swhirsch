@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Sam Hirsch
+Sudent Email:  swhirsch@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,11 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+This homework helped me learn how to break a problem into smaller segments in Python. I got to practice parsing strings and using lists as well as dictionaries to keep things organized. Writing functions made the code cleaner and easier to test with the debugger It was challenging at times, but it definitely made me more confident with loops, functions, and basic data structures that I'll need to know for this course.
+
+
+
+
+
+
 
